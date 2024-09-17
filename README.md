@@ -1,3 +1,11 @@
+College Management System
+
+
+
+https://github.com/user-attachments/assets/86f8eae7-9f19-463f-8c22-d9667768c97b
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
